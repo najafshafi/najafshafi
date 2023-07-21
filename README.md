@@ -16,19 +16,30 @@
 
 
 <div style="display: flex;">
+  <!-- 
   <div style="flex: 1;">
     <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=najafshafi&show_icons=true&locale=en&theme=dark" alt="najafshafi" /></p>
-  </div>
+  </div> 
+  -->
   <div style="flex: 1;">
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=najafshafi&theme=dark" alt="najafshafi" /></p>
   </div>
 </div>
 
 
-| Connect with me                           | Support                                      |
-| ---------------------------------------- | -------------------------------------------- |
-| [Twitter](https://twitter.com/najaf_shafi)  | [Buy Me a Coffee](https://www.buymeacoffee.com/najafshafi) |
-| [Facebook](https://fb.com/najaf.shafii)     | [Ko-fi](https://ko-fi.com/najafshafi)                 |
-| [Instagram](https://instagram.com/najaf.shafi) |                                              |
+<!-- Connect with me -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://twitter.com/najaf_shafi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="najaf_shafi" height="30" width="40" /></a>
+  <a href="https://fb.com/najaf.shafii" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="najaf.shafii" height="30" width="40" /></a>
+  <a href="https://instagram.com/najaf.shafi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="najaf.shafi" height="30" width="40" /></a>
+</p>
 
+<!-- Support
+<h3 align="left">Support:</h3>
+<p>
+  <a href="https://www.buymeacoffee.com/najafshafi"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="najafshafi" /></a>
+  <a href="https://ko-fi.com/najafshafi"><img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="najafshafi" /></a>
+</p>
 
+ -->
