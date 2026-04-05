@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Backend with node.js**
 
-- 👨‍💻 All of my projects are available at [www.najaf.w3spaces.com](www.najaf.w3spaces.com)
+- 👨‍💻 All of my projects are available at [www.najaf.w3spaces.com](www.najaf.me)
 
 - 💬 Ask me about **Data Structure and Algorithms**
 
