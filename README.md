@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Najaf Shafi 👋
+# Hi there, I'm Najaf Muhammad 👋
 
 [![Profile Views](https://komarev.com/ghpvc/?username=najafshafi&label=Profile%20views&color=0e75b6&style=flat-square)](https://github.com/najafshafi)
 
@@ -13,7 +13,6 @@
 ### About Me
 
 - 🚀 Currently diving deep into **Backend with Node.js**
-- 👨‍💻 Check out my work at [najaf.me](https://www.najaf.me)
 - 💬 Ask me about **Data Structures & Algorithms**
 - 📫 Reach me at **najafshafi.online@gmail.com**
 
